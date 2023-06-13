@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Projects\MySolutions\bin\Debug\net6.0\MySolutions.exe
+C:\Users\Onwe\Documents\Projects\MySolutions\bin\Debug\net6.0\MySolutions.deps.json
+C:\Users\Onwe\Documents\Projects\MySolutions\bin\Debug\net6.0\MySolutions.runtimeconfig.json
+C:\Users\Onwe\Documents\Projects\MySolutions\bin\Debug\net6.0\MySolutions.dll
+C:\Users\Onwe\Documents\Projects\MySolutions\bin\Debug\net6.0\ref\MySolutions.dll
+C:\Users\Onwe\Documents\Projects\MySolutions\bin\Debug\net6.0\MySolutions.pdb
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.dll
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\ref\MySolutions.dll
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.pdb
+C:\Users\Onwe\Documents\Projects\MySolutions\obj\Debug\net6.0\MySolutions.genruntimeconfig.cache
